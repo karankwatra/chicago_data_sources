@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330ed113-7e60-4896-a082-1c2856c2dc72" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getdata/management/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getdata/management/commands/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getdata/management/commands/populate_db.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getdata/migrations/0002_auto_20180217_0025.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/chicago_data_sources.iml" afterPath="$PROJECT_DIR$/.idea/chicago_data_sources.iml" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/getdata/models.py" afterPath="$PROJECT_DIR$/getdata/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="populate_db.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="populate_db.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getdata/management/commands/populate_db.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="693">
@@ -87,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <state relative-caret-position="3300">
+              <caret line="100" column="12" lean-forward="false" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -150,8 +143,8 @@
         <option value="$PROJECT_DIR$/getdata/models.py" />
         <option value="$PROJECT_DIR$/getdata/management/commands/__init__.py" />
         <option value="$PROJECT_DIR$/getdata/management/__init__.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/getdata/management/commands/populate_db.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -579,14 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/getdata/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -612,6 +597,14 @@
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="100" column="12" lean-forward="false" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -3,5 +3,5 @@ from django.db import models
 # Create your models here.
 
 class Population(models.Model):
-    census_tract = models.DecimalField(max_digits=5, decimal_places=2, blank=True, null=True)
+    census_tract = models.FloatField(default=0.0)
     pop_100 = models.IntegerField(default=0)
